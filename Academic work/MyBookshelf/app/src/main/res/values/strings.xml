@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Bookshelf</string>
+
+    <string-array name="names">
+        <item>Operaatio Punainen kettu</item>
+        <item>Sitdowns with Female Gangsters</item>
+        <item>The Housemaid</item>
+        <item>Lights Out</item>
+        <item>Surrounded by Idiots</item>
+    </string-array>
+
+    <string-array name="authors">
+        <item>Helena Immonen</item>
+        <item>Shaun Attwood</item>
+        <item>Freida McFadden</item>
+        <item>Navessa Allen</item>
+        <item>Thomas Erikson</item>
+    </string-array>
+    <string name="guide">
+        Guide to the app:\n\n
+        Here you can see the books you own. As you already own the books, you can see more information of the books from their back covers.
+        After you have finished a book you can mark it as finished and rate the book.\n\n
+        Happy reading!
+    </string>
+</resources>
