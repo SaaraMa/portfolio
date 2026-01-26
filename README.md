@@ -10,3 +10,11 @@ You can contact me at <saar.makela@gmail.com>
 #### EKG sleep apnea detection 🫀📈
 
 This was a project work my friend and I did in our health technology project course. We did two projects on that course and this was my part. We got EKG data and were instructed to detect sleep apnea from it. This was very interesting project on biosignals, HRV metrics, and machine learning we have a lot of in our studies. It was a great opportunity to put my skills to use. Check out our workflow and conclusions!
+
+#### Data exploratory, supervised learning and unsupervised learning data exercises 📊
+
+These are all from the same course where we focused on data analysis and knowledge management. The first one is basic data exploration, categorization, visualization. The supervised learning exercises are k-Nearest Neighbour (kNN) and Leave-one-out cross-validation (LOOCV) and unsupervised focuses on principal componen analysis (PCA).
+
+#### Evalution of LOOCV and LROCV, spatial LOOCV, and LOOCV of pairs 📉✅
+
+These are from Evaluation of Machine Learning Methods course where we dived more deeply into machine learning methods and evaluated them in different cases. Here we mostly used LOOCV in different case but also Leave-replicas-out cross-validation.
